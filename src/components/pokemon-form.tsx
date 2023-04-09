@@ -3,7 +3,7 @@ import { useHistory } from 'react-router-dom';
 import Pokemon from '../models/pokemon';
 import formatType from '../helpers/format-type';
 import PokemonService from '../services/pokemon-service';
-  
+
 type Props = {
   pokemon: Pokemon
 };
