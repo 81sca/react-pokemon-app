@@ -25,7 +25,7 @@ export default class PokemonService {
   }
 
   static addPokemon(pokemon: Pokemon): Promise<Pokemon> {
-    return fetch(`http://localhost:3001/pokemons/${pokemon.id}`, {
+    return fetch('http://localhost:3001/pokemons', {
       method: 'POST',
       body: JSON.stringify(pokemon),
       headers: {'Content-Type': 'application/json'}
