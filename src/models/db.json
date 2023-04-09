@@ -103,6 +103,28 @@
       "types": [
         "Feu"
       ]
+    },
+    {
+      "id": 1681027195423,
+      "hp": 100,
+      "cp": 10,
+      "name": "Nouveau Pokémon",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/111.png",
+      "types": [
+        "Normal",
+        "Combat"
+      ]
+    },
+    {
+      "id": 1681027436114,
+      "hp": 100,
+      "cp": 10,
+      "name": "Oké",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/213.png",
+      "types": [
+        "Normal",
+        "Feu"
+      ]
     }
   ]
 }
