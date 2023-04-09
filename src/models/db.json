@@ -13,12 +13,13 @@
     },
     {
       "id": 3,
-      "name": "Carapuce",
-      "hp": 21,
-      "cp": 4,
+      "name": "Carapucé",
+      "hp": "210",
+      "cp": "40",
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png",
       "types": [
-        "Eau"
+        "Eau",
+        "Fée"
       ]
     },
     {
