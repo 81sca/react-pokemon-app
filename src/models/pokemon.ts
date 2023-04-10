@@ -6,15 +6,15 @@ export default class Pokemon {
     name: string;
     picture: string;
     types: Array<string>;
-    created: Date;
+    created?: Date;
      
     // 2. Définition des valeurs par défaut des propriétés d'un pokémon.
     constructor(
      id: number,
      hp: number = 100,
      cp: number = 10,
-     name: string = 'name',
-     picture: string = 'http://...',
+     name: string = '...',
+     picture: string = 'https://assets.pokemon.com/assets/cms2/img/pokedex/detail/XXX.png',
      types: Array<string> = ['Normal'],
      created: Date = new Date()
     ) {
