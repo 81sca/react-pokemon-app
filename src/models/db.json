@@ -2,9 +2,9 @@
   "pokemons": [
     {
       "id": 1,
-      "name": "Bulbizarre",
-      "hp": 25,
-      "cp": 5,
+      "name": "Bulbizarré",
+      "hp": "250",
+      "cp": "50",
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png",
       "types": [
         "Plante",
@@ -46,8 +46,8 @@
     {
       "id": 7,
       "name": "Piafabec",
-      "hp": 14,
-      "cp": 5,
+      "hp": "140",
+      "cp": "50",
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/021.png",
       "types": [
         "Normal",
@@ -106,13 +106,14 @@
     },
     {
       "id": 1681027195423,
-      "hp": 100,
-      "cp": 10,
+      "hp": "333",
+      "cp": "45",
       "name": "Nouveau Pokémon",
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/111.png",
       "types": [
         "Normal",
-        "Combat"
+        "Combat",
+        "Feu"
       ]
     },
     {
@@ -123,6 +124,18 @@
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/213.png",
       "types": [
         "Normal",
+        "Feu"
+      ]
+    },
+    {
+      "id": 1682524171844,
+      "hp": "140",
+      "cp": 10,
+      "name": "Fulimard",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/209.png",
+      "types": [
+        "Plante",
+        "Fée",
         "Feu"
       ]
     }
